@@ -14,10 +14,10 @@ ACCESS_SECRET = ''
 # How many tweets should the bot make?
 maxTweets = 1
 
-# How long (in characters) should the tweet be?
+# How long (in characters) can the tweet be?
 maxLen = 128
 
-# How long is the delay between tweets?
+# How long is the delay (in seconds) between tweets?
 sleepTime = 10
 
 
